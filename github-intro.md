@@ -9,5 +9,12 @@
 - remote - GitHub or any online cold storage space
 - local - your computer
 - repo - named folder on GitHub
-- clone -
+- clone - taking a repo from the remote and putting it on our local
 - push and pull - action of moving code on a branch between local and remote
+
+
+### Git Workflow
+- informational commands: ls, pwd, git status
+- git add <file-name>
+- git commit -m "a meaningful message about your changes"
+- git push origin <branch-name>
