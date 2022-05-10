@@ -14,7 +14,10 @@
 
 
 ### Git Workflow
-- informational commands: ls, pwd, git status
+- informational commands: `ls`, `pwd`, `git status`
+
+```
 - git add <file-name>
 - git commit -m "a meaningful message about your changes"
 - git push origin <branch-name>
+```
